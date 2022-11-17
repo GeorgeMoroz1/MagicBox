@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Main<T> {
     public static void main(String[] args) {
         MagicBox<Integer> magicBox = new MagicBox<>(7);
